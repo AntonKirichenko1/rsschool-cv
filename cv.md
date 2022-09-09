@@ -51,8 +51,6 @@ ___
 ---
 
 ## Languages
-
-- Russian - native
 - English -A2 (in progress)
 
 
