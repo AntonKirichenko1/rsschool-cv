@@ -1,8 +1,11 @@
-.name{
-  font-size: 16px;
-  font-style: italic;
-  color: bisque;    
+h1{
+  font: normal 2em Arial, Tahome, Sans-serif ;
+  background: #3989c9;
+  color: #fff;
+  padding: 0 1rem; 
+  overflow: hidden;
 }
-.phones {
-  color:  black;
+h1 span {
+  position: relative;
+  top: 0.48rem;
 }
